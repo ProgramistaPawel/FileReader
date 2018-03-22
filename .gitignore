@@ -1,0 +1,10 @@
+
+.vs/ConsoleApp/v15/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.exe
+ConsoleApp/bin/Debug/
+ConsoleApp/bin/Release/
+ConsoleApp/obj/
